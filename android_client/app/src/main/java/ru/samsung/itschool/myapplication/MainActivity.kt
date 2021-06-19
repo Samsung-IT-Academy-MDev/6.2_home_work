@@ -26,6 +26,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun sendText() {
-        TODO("допишите свой код здесь!")
+       TODO()
     }
 }
