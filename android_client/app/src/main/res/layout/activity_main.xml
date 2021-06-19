@@ -15,7 +15,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:hint="URL"
-        android:text="http://xxx.yyy/zzz"
+        android:text="https://xxx.yyy/zzz"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
